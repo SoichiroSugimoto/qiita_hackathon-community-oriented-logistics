@@ -1,0 +1,11 @@
+id,prefecture,city,address_line,building_name,room_number
+1,Tokyo,Chiyoda,1-1,BuildingA,101
+2,Kanagawa,Yokohama,2-2,BuildingB,202
+3,Osaka,Osaka,3-3,BuildingC,303
+4,Aichi,Nagoya,4-4,BuildingD,404
+5,Hokkaido,Sapporo,5-5,BuildingE,505
+6,Fukuoka,Fukuoka,6-6,BuildingF,606
+7,Hiroshima,Hiroshima,7-7,BuildingG,707
+8,Kyoto,Kyoto,8-8,BuildingH,808
+9,Shizuoka,Shizuoka,9-9,BuildingI,909
+10,Ibaraki,Mito,10-10,BuildingJ,1010
